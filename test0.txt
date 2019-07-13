@@ -1,9 +1,2 @@
 welcome
-hello!
-hehah 
-nihoa
-git!
-aa
-bb
-cc
 hello android
